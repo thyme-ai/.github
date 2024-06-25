@@ -1,7 +1,7 @@
 # Meet Thyme
-The most personal, useful, and private AI assistant. Thyme creates the perfect day for you, learns over time, and anticipates your needs.
+Thyme is an AI research company dedicated to building the most personal, useful, and private AI. Our personal AI assistant, Thyme, can schedule meetings, help you brainstorm, anticipate your needs, and more. Try out our beta at [thyme.company](https://thyme.company)
 
-Check out our [YouTube channel](https://www.youtube.com/@thyme-ai) to watch the demo video, stay up to date with Thyme & get access to our beta release in May 2024!
+Watch the demo video on [YouTube](https://youtu.be/8H4GNelhmnw?si=Q7uEMLifyeD-il9M)
 
 We'd love to hear what you think! Email us at hello@thyme.company
 
